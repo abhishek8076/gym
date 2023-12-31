@@ -88,6 +88,16 @@ a:hover, #header.nav-solid nav a:hover {
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
     color:#fff;    
 }
+.line{
+    background:#d2b356;
+    content:"";
+    display:flex;
+    justify-content: center;
+    width:30px;
+    height:5px;
+    margin-top:30px;
+
+}
 
 .section-heading h2:after {
     background:#d2b356;
